@@ -34,7 +34,3 @@ For example, if you have a sprite named `vmware.puml` in the `example` directory
 ```
 
 Now, you can use `VMWARE` in your diagrams to represent the sprite.
-
----
-
-With this addition, users will be reminded to ensure they have the necessary software installed and properly configured before they proceed.
